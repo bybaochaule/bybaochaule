@@ -55,7 +55,7 @@ Sponsorship helps me:
 
 ## Connect With Me
 
-[Facebook Community](https://www.facebook.com/groups/bybaochaule) · [Pinterest](https://www.pinterest.com/bybaochaule) · [GitHub](https://github.com/bybaochaule)
+[Facebook Community](https://www.facebook.com/SwissVietinAmerika) · [Pinterest](https://www.pinterest.com/bybaochaule) · [GitHub](https://github.com/bybaochaule)
 
 ---
 
