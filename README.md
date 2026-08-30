@@ -1,133 +1,62 @@
-# Hi, I'm Bao Chau 👋
+# Hi, I'm Bao Chau Le 👋
 
-I build open-source tools and Agent Skills for making AI agents more reliable, testable, safe, and useful in real workflows.
+**Vietnam-born · Swiss-raised · Based in California**
 
-My current focus is the infrastructure around AI agents:
+I create practical, open-source AI Agent Skills that turn repeatable work into clear, reliable workflows for creators, small businesses, and knowledge workers.
 
-**evaluation → verification → tool use → workflow reliability → reusable skills**
+My work combines technical structure, multilingual communication, and a cross-cultural perspective shaped by life in Vietnam, Switzerland, and the United States.
 
-## What I'm building
+## About Me
 
-### 🧪 Agent evaluation
+- 🇻🇳 Born in Vietnam
+- 🇨🇭 Grew up in Switzerland
+- 🇺🇸 Moved to the United States in 2011 and now live in California
+- 💻 Former IT Technical Specialist at one of Switzerland's largest telecommunications companies
+- 🌍 Fluent in Vietnamese, German, Swiss German, and English
 
-I’m exploring reproducible ways to answer a simple question:
+My technical background taught me to think systematically, troubleshoot carefully, and make complex tools easier to use. Today, I apply that experience to building AI skills, prompts, templates, and workflows that help people work more effectively.
 
-> **Does adding an Agent Skill actually make the agent better?**
+## What I Build
 
-The goal is to move skill development away from “this prompt looks good” toward measurable behavior, reproducible tests, failure analysis, and evidence.
+- Reusable `SKILL.md` workflows for ChatGPT, Codex, Claude, Cursor, and other AI agents
+- Document and PDF processing tools
+- Multilingual writing and content-creation systems
+- Workflow logic, validation, and structured agent behavior
+- Practical resources for creators and small businesses
 
-### 🛠 Agent workflows
+## Featured Projects
 
-I build reusable Agent Skills that turn complex work into explicit processes with:
+| Project | What it does |
+| --- | --- |
+| [PDF Allrounder](https://github.com/bybaochaule/PDF-Allrounder) | A German-language AI skill for reading, creating, editing, converting, OCR-processing, and visually checking PDF files. |
+| [Humanize Writing](https://github.com/bybaochaule/Humanize-Writing) | Rewrites AI-assisted German text so it sounds natural while preserving its meaning, facts, and intended tone. |
+| [Turn Content Into Carousel](https://github.com/bybaochaule/Turn-Content-Into-Carousel) | Turns existing content into organized, engaging social-media carousels. |
+| [Workflow Design & Logic](https://github.com/bybaochaule/workflow-design-logic) | Helps AI agents design and audit decision paths, validation gates, fallback behavior, and error handling. |
+| [PDF Audiobook Learning Coach](https://github.com/bybaochaule/pdf-hoerbuch-lerncoach-de) | Transforms long German-language PDFs into guided audio-learning experiences. |
+| [SaaS Roadmap Strategist](https://github.com/bybaochaule/SaaS-Roadmap-Strategist) | Builds structured SaaS technology roadmaps from MVP planning to enterprise readiness. |
 
-* clear triggering conditions
-* decision logic
-* tool boundaries
-* validation gates
-* failure handling
-* observable quality checks
+## Why I Share My Work
 
-### 🔐 Safe tool use
+AI should make useful knowledge and professional workflows more accessible—not more complicated. I publish my projects so people can study them, adapt them, and use them to save time.
 
-I’m interested in how agents can use APIs, connectors, MCP servers, files, and external services while preserving least privilege, user authorization, traceability, and safe failure behavior.
+I am especially interested in creating tools that work well across languages and help non-technical users benefit from AI.
 
-## Selected work
+## Support My Work
 
-### Testing, Debugging & Optimization
+Sponsorship helps me:
 
-An Agent Skill for designing evaluation scenarios, measuring baselines, classifying failures, tracking accuracy and latency, and running regression tests on agent systems.
+- Maintain and improve existing skills
+- Test compatibility across different AI agents
+- Create clearer documentation and examples
+- Release more multilingual, open-source tools
+- Keep useful community versions freely available
 
-### Tools & Integrations Knowledge
+[Sponsor me on GitHub](https://github.com/sponsors/bybaochaule) · [Support me on Patreon](https://www.patreon.com/cw/bybaochaule)
 
-A workflow for planning and validating agent integrations while separating planning from execution and requiring authorization for consequential actions.
+## Connect With Me
 
-### PDF Allrounder
-
-A document workflow skill covering PDF reading, conversion, OCR, editing, rendering, and visual quality verification.
-
-## Current project
-
-### SkillAblate
-
-**A vendor-neutral ablation protocol for measuring what an Agent Skill actually changes.**
-
-The experiment is simple:
-
-```text
-same task
-same model
-same tools
-same environment
-same budget
-
-WITHOUT SKILL
-      vs
-WITH SKILL
-
-      ↓
-
-measured outcome
-```
-
-The project will focus on reproducible evidence rather than subjective “quality scores.”
-
-Planned areas include:
-
-```text
-benchmark specification
-deterministic graders
-run manifests
-skill fingerprints
-raw evidence
-baseline-vs-skill comparisons
-cross-agent interoperability
-regression testing
-CI integration
-```
-
-The long-term goal is to help developers answer:
-
-**Did the skill improve the agent, harm it, or make no measurable difference?**
-
-## Open-source principles
-
-I want the projects here to be:
-
-**Useful** — solve real agent-development problems.
-
-**Testable** — important claims should have evidence.
-
-**Portable** — avoid unnecessary dependence on one model provider.
-
-**Transparent** — publish limitations and negative results.
-
-**Safe** — permissions and consequential actions should be explicit.
-
-**Collaborative** — outside issues, experiments, critiques, and pull requests are welcome.
-
-## Sponsors
-
-I maintain these projects independently.
-
-Sponsorship helps fund:
-
-* model/API costs for reproducible experiments
-* cross-model testing
-* benchmark infrastructure
-* documentation
-* maintenance
-* security and reliability work
-
-Funding does **not** buy favorable benchmark results or influence technical conclusions.
-
-If your team works on AI agents, Agent Skills, MCP, evaluations, developer tooling, or agent security, I’d be glad to collaborate through issues and pull requests.
-
-## Current direction
-
-I’m especially interested in contributions and research around:
-
-`Agent Skills` · `AI agents` · `agent evals` · `MCP` · `Codex` · `Claude` · `Gemini` · `agent reliability` · `agent security` · `open-source AI tooling`
+[Facebook Community](https://www.facebook.com/groups/bybaochaule) · [Pinterest](https://www.pinterest.com/bybaochaule) · [GitHub](https://github.com/bybaochaule)
 
 ---
 
-If something here saves you time or improves your agent workflow, a ⭐, issue, test case, contribution, or sponsorship all help move the work forward.
+*Building useful AI workflows—one skill at a time.*
